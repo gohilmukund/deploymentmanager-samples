@@ -23,7 +23,7 @@
 # see https://cloud.google.com/deployment-manager/docs/configuration/supported-resource-types.
 resources:
 - type: compute.v1.instance
-  name: quickstart-deployment-vm
+  name: mukund-deployment-vm
   properties:
     # The properties of the resource depend on the type of resource. For a list
     # of properties, see the API reference for the resource.
